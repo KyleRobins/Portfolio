@@ -25,7 +25,7 @@ const Footer = () => {
                 className="copyright-text align-center scrolla-element-anim-1 scroll-animate"
                 data-animate="active"
               >
-                © 2022 <strong>Luique</strong>. All rights reserved
+                © 2023 <strong>KyleRobins</strong>. All rights reserved
               </div>
             </div>
             <div className="col-xs-12 col-sm-12 col-md-4 col-lg-4">
@@ -33,7 +33,7 @@ const Footer = () => {
                 className="copyright-text align-right scrolla-element-anim-1 scroll-animate"
                 data-animate="active"
               >
-                Developed by <strong>bslthemes</strong>
+                Developed by <strong>Kyle From Elitco.</strong>
               </div>
             </div>
           </div>
