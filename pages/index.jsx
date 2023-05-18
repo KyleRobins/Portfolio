@@ -267,11 +267,11 @@ const Index = () => {
               <SwiperSlide className="swiper-slide">
                 <div className="services-item">
                   <div className="lui-subtitle">
-                    <span> Advertising </span>
+                    <span> Management Systems </span>
                   </div>
                   <div className="icon" />
                   <h5 className="lui-title">
-                    <span> Google Ads </span>
+                    <span> Erps, Crms, HRM </span>
                   </h5>
                   <div className="lui-text">
                     <div>
