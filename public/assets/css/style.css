@@ -1,10 +1,10 @@
 /*
-Template Name: Luique
-Template URI: https://bslthemes.com/
-Author: bslthemes
-Author URI: https://themeforest.net/user/bslthemes
-Description: Luique - Resume & Personal Portfolio HTML5 Template
-Version: 1.0
+Project Name: Kylerobins
+URI: https://elit.co.ke/
+Author: kylerobins
+Author URI: https://kylerobins.com
+Description:Personal Portfolio
+Version: 2.0
 */
 
 /* TABLE OF CONTENTS
@@ -1298,6 +1298,20 @@ hr {
 		right: 0;
 	}
 }
+@keyframes slideIn {
+	0% {
+	  opacity: 0;
+	  transform: translateX(-100%);
+	}
+	100% {
+	  opacity: 1;
+	  transform: translateX(0);
+	}
+  }
+  
+  .slide-in {
+	animation: slideIn 0.5s ease-in-out;
+  }
 
 
 /* - Cursor */
