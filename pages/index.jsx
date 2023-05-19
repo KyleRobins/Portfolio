@@ -47,14 +47,14 @@ const Index = () => {
                   </h1>
                   <div className="label lui-subtitle">
                     {" "}
-                    I am a <strong>Web Developer</strong>
+                    I am a <strong>Web Developer, UI/UX Designer, Graphics Designer</strong>
                   </div>
                 </div>
                 <div className="description">
                   <div>
                     <p>
                       From Nairobi, Kenya. I have rich experience in web design,
-                      Graphic design, Wordpress Development. Ready to help you Develop, 
+                      Graphic design, UI/UX Design, Wordpress Development. Ready to help you Develop, 
                       Strategize and Transform your business into a profitable Investment. 
                       I'm the founder of {''}<a href="https://elit.co.ke" target="_blank" rel="noopener noreferrer">
                       Elitco
