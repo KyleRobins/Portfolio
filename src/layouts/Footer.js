@@ -11,14 +11,14 @@ const Footer = () => {
                 className="social-links scrolla-element-anim-1 scroll-animate"
                 data-animate="active"
               >
-                <a target="_blank" rel="nofollow" href="http://twitter.com">
+                <a target="_blank" rel="nofollow" href="https://twitter.com/_KyleRobins">
                   <i aria-hidden="true" className="fab fa-twitter" />
                 </a>
-                <a target="_blank" rel="nofollow" href="http://dribble.com">
-                  <i aria-hidden="true" className="fab fa-dribbble" />
+                <a target="_blank" rel="nofollow" href="https://www.linkedin.com/in/robinskyle/">
+                  <i aria-hidden="true" className="fab fa-linkedin" />
                 </a>
-                <a target="_blank" rel="nofollow" href="http://behance.com">
-                  <i aria-hidden="true" className="fab fa-behance" />
+                <a target="_blank" rel="nofollow" href="https://github.com/kylerobins">
+                  <i aria-hidden="true" className="fab fa-github" />
                 </a>
               </div>
             </div>

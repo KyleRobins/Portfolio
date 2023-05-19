@@ -62,15 +62,15 @@ const Index = () => {
                     </p>
                   </div>
                   <div className="social-links">
-                    <a target="_blank" rel="nofollow" href="#">
-                      <i aria-hidden="true" className="fab fa-twitter" />
-                    </a>
-                    <a target="_blank" rel="nofollow" href="#">
-                      <i aria-hidden="true" className="fab fa-dribbble" />
-                    </a>
-                    <a target="_blank" rel="nofollow" href="#">
-                      <i aria-hidden="true" className="fab fa-behance" />
-                    </a>
+                  <a target="_blank" rel="nofollow" href="https://twitter.com/_KyleRobins">
+                  <i aria-hidden="true" className="fab fa-twitter" />
+                  </a>
+                  <a target="_blank" rel="nofollow" href="https://www.linkedin.com/in/robinskyle/">
+                  <i aria-hidden="true" className="fab fa-linkedin" />
+                  </a>
+                  <a target="_blank" rel="nofollow" href="https://github.com/kylerobins">
+                  <i aria-hidden="true" className="fab fa-github" />
+                  </a>
                   </div>
                 </div>
                 <div className="bts">
