@@ -20,6 +20,9 @@ const Footer = () => {
                 <a target="_blank" rel="nofollow" href="https://github.com/kylerobins">
                   <i aria-hidden="true" className="fab fa-github" />
                 </a>
+                <a target="_blank" rel="nofollow" href="https://discord.gg/BMFKaWPw">
+                  <i aria-hidden="true" className="fab fa-discord" />
+                </a>
               </div>
             </div>
             <div className="col-xs-12 col-sm-12 col-md-4 col-lg-4">

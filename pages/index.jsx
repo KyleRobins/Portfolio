@@ -71,6 +71,9 @@ const Index = () => {
                   <a target="_blank" rel="nofollow" href="https://github.com/kylerobins">
                   <i aria-hidden="true" className="fab fa-github" />
                   </a>
+                  <a target="_blank" rel="nofollow" href="https://discord.gg/BMFKaWPw">
+                  <i aria-hidden="true" className="fab fa-discord" />
+                  </a>
                   </div>
                 </div>
                 <div className="bts">
@@ -94,7 +97,7 @@ const Index = () => {
                 <img
                   decoding="async"
                   src="assets/images/kylerobinsbg.png"
-                  alt="<b>Zoé</b> Miller"
+                  alt="<b>Kyle</b> Robins"
                 />
                 <span className="circle circle-1" />
                 <span
@@ -196,7 +199,7 @@ const Index = () => {
                   </div>
                   <a href="#pricing-section" className="lnk">
                     {" "}
-                    See Pricing{" "}
+                    Read More{" "}
                   </a>
                   <div
                     className="image"
@@ -226,7 +229,7 @@ const Index = () => {
                   </div>
                   <a href="#pricing-section" className="lnk">
                     {" "}
-                    See Pricing{" "}
+                    Read More{" "}
                   </a>
                   <div
                     className="image"
@@ -254,7 +257,7 @@ const Index = () => {
                   </div>
                   <a href="#pricing-section" className="lnk">
                     {" "}
-                    See Pricing{" "}
+                    Read More{" "}
                   </a>
                   <div
                     className="image"
@@ -283,7 +286,7 @@ const Index = () => {
                   </div>
                   <a href="#pricing-section" className="lnk">
                     {" "}
-                    See Pricing{" "}
+                    Read More{" "}
                   </a>
                   <div
                     className="image"
@@ -312,7 +315,7 @@ const Index = () => {
                   </div>
                   <a href="#pricing-section" className="lnk">
                     {" "}
-                    See Pricing{" "}
+                    Read More{" "}
                   </a>
                   <div
                     className="image"
@@ -350,7 +353,7 @@ const Index = () => {
               >
                 <span>
                   {" "}
-                  my <b>Talent</b>{" "}
+                  my <b>Talents</b>{" "}
                 </span>
               </div>
             </div>
@@ -367,14 +370,14 @@ const Index = () => {
                     data-animate="active"
                   >
                     <h6 className="name">
-                      <span> PHP </span>
+                      <span> Html </span>
                     </h6>
                     <div className="text">
                       <div>
                         <p>
-                          Lorem ipsum dolor sit amet, consectetur adipiscing
-                          elit, sed do eiusmod tempor incididunt ut labore et
-                          dolore magna aliqua.
+                          With a solid grasp of HTML as an intermediate web developer, I am skilled in crafting the fundamental structure and design of websites. 
+                          By utilizing HTML's markup tags, I proficiently organize and arrange online content, resulting in visually appealing and user-friendly websites. 
+                          This expertise enables me to create seamless browsing experiences.
                         </p>
                       </div>
                     </div>
@@ -394,15 +397,13 @@ const Index = () => {
                     data-animate="active"
                   >
                     <h6 className="name">
-                      <span> Python </span>
+                      <span> Css </span>
                     </h6>
                     <div className="text">
                       <div>
                         <p>
-                          Lorem ipsum dolor sit amet, consectetur adipiscing
-                          elit, sed do eiusmod tempor incididunt ut labore et
-                          dolore magna aliqua.
-                        </p>
+                        By leveraging the power of CSS styling, I can seamlessly organize and arrange online content, resulting in websites that leave a lasting positive impression on visitors. 
+                        With my skills in CSS, I create engaging browsing experiences, ensuring intuitive navigation.</p>
                       </div>
                     </div>
                     <div className="dots">
@@ -430,9 +431,8 @@ const Index = () => {
                     <div className="text">
                       <div>
                         <p>
-                          Lorem ipsum dolor sit amet, consectetur adipiscing
-                          elit, sed do eiusmod tempor incididunt ut labore et
-                          dolore magna aliqua.
+                        Harnessing the power of JavaScript, I skillfully create websites with interactive and dynamic elements, enhancing user experiences through form validation, real-time updates, and engaging content.
+                        By leveraging this versatile programming language, I transform websites into immersive, responsive, and user-friendly digital experiences, ensuring a seamless journey for visitors.
                         </p>
                       </div>
                     </div>
@@ -457,9 +457,7 @@ const Index = () => {
                     <div className="text">
                       <div>
                         <p>
-                          Lorem ipsum dolor sit amet, consectetur adipiscing
-                          elit, sed do eiusmod tempor incididunt ut labore et
-                          dolore magna aliqua.
+                        With expertise in React, I construct modern and highly responsive web applications. Leveraging React's component-based architecture and virtual DOM, I create reusable UI components that enhance performance and facilitate seamless state management
                         </p>
                       </div>
                     </div>
@@ -488,9 +486,8 @@ const Index = () => {
                     <div className="text">
                       <div>
                         <p>
-                          Lorem ipsum dolor sit amet, consectetur adipiscing
-                          elit, sed do eiusmod tempor incididunt ut labore et
-                          dolore magna aliqua.
+                        Proficient in WordPress, I develop websites with a user-friendly interface and robust functionality. Utilizing WordPress's extensive plugin ecosystem and customizable themes, I create tailored solutions that meet specific business needs.
+                        Building intuitive content management systems to integrating e-commerce capabilities delivering versatile and scalable websites.
                         </p>
                       </div>
                     </div>
@@ -510,14 +507,13 @@ const Index = () => {
                     data-animate="active"
                   >
                     <h6 className="name">
-                      <span> Adobe XD </span>
+                      <span> Figma </span>
                     </h6>
                     <div className="text">
                       <div>
                         <p>
-                          Lorem ipsum dolor sit amet, consectetur adipiscing
-                          elit, sed do eiusmod tempor incididunt ut labore et
-                          dolore magna aliqua.
+                        As a skilled Figma user, I transform design concepts into captivating visual experiences. With Figma's collaborative design tools, I create pixel-perfect layouts, intuitive user interfaces, and interactive prototypes.
+                        I ensure efficient design handoffs and deliver exceptional designs.
                         </p>
                       </div>
                     </div>
