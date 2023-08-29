@@ -47,33 +47,60 @@ const Index = () => {
                   </h1>
                   <div className="label lui-subtitle">
                     {" "}
-                    I am a <strong>Web Developer, UI/UX Designer, Graphics Designer</strong>
+                    I am a{" "}
+                    <strong>
+                      Web Developer, UI/UX Designer, Graphics Designer
+                    </strong>
                   </div>
                 </div>
                 <div className="description">
                   <div>
                     <p>
                       From Nairobi, Kenya. I have rich experience in web design,
-                      Graphic design, UI/UX Design, Wordpress Development. Ready to help you Develop, 
-                      Strategize and Transform your business into a profitable Investment. 
-                      I'm the founder of {''}<a href="https://elit.co.ke" target="_blank" rel="noopener noreferrer">
-                      Elitco
-                      </a> an IT consultant company pay our website a visit for more info.   
+                      Graphic design, UI/UX Design, Wordpress Development. Ready
+                      to help you Develop, Strategize and Transform your
+                      business into a profitable Investment. I'm the founder of{" "}
+                      {""}
+                      <a
+                        href="https://elit.co.ke"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
+                        Elitco
+                      </a>{" "}
+                      an IT consultant company pay our website a visit for more
+                      info.
                     </p>
                   </div>
                   <div className="social-links">
-                  <a target="_blank" rel="nofollow" href="https://twitter.com/_KyleRobins">
-                  <i aria-hidden="true" className="fab fa-twitter" />
-                  </a>
-                  <a target="_blank" rel="nofollow" href="https://www.linkedin.com/in/robinskyle/">
-                  <i aria-hidden="true" className="fab fa-linkedin" />
-                  </a>
-                  <a target="_blank" rel="nofollow" href="https://github.com/kylerobins">
-                  <i aria-hidden="true" className="fab fa-github" />
-                  </a>
-                  <a target="_blank" rel="nofollow" href="https://discord.gg/BMFKaWPw">
-                  <i aria-hidden="true" className="fab fa-discord" />
-                  </a>
+                    <a
+                      target="_blank"
+                      rel="nofollow"
+                      href="https://twitter.com/_KyleRobins"
+                    >
+                      <i aria-hidden="true" className="fab fa-twitter" />
+                    </a>
+                    <a
+                      target="_blank"
+                      rel="nofollow"
+                      href="https://www.linkedin.com/in/robinskyle/"
+                    >
+                      <i aria-hidden="true" className="fab fa-linkedin" />
+                    </a>
+                    <a
+                      target="_blank"
+                      rel="nofollow"
+                      href="https://github.com/kylerobins"
+                    >
+                      <i aria-hidden="true" className="fab fa-github" />
+                    </a>
+                    <a
+                      target="_blank"
+                      rel="nofollow"
+                      href="https://discord.gg/BMFKaWPw"
+                    >
+                      <i aria-hidden="true" className="fab fa-discord" />
+                    </a>
                   </div>
                 </div>
                 <div className="bts">
@@ -193,11 +220,12 @@ const Index = () => {
                   <div className="lui-text">
                     <div>
                       {" "}
-                      I am an experienced web designer and developer, creating visually appealing and user-friendly 
-                      websites with robust functionality to empower businesses in the digital realm{" "}
+                      I am an experienced web designer and developer, creating
+                      visually appealing and user-friendly websites with robust
+                      functionality to empower businesses in the digital realm{" "}
                     </div>
                   </div>
-                  <a href="#pricing-section" className="lnk">
+                  <a href="https://elit.co.ke" className="lnk">
                     {" "}
                     Read More{" "}
                   </a>
@@ -212,22 +240,22 @@ const Index = () => {
               <SwiperSlide className="swiper-slide">
                 <div className="services-item">
                   <div className="lui-subtitle">
-                    <span> Apps Development </span>
+                    <span> UI/UX Design </span>
                   </div>
                   <div className="icon" />
                   <h5 className="lui-title">
-                    <span> iOS &amp; Android </span>
+                    <span> iOS, Web &amp; Android </span>
                   </h5>
                   <div className="lui-text">
                     <div>
                       <p>
-                        Design Software applications to run on mobile devices.
-                        Modern and mobile-ready application that will help you
-                        reach all of your marketing.
+                        Craft web, iOS, and Android apps with a contemporary
+                        interface, ensuring seamless marketing outreach across
+                        all platforms.
                       </p>
                     </div>
                   </div>
-                  <a href="#pricing-section" className="lnk">
+                  <a href="https://elit.co.ke" className="lnk">
                     {" "}
                     Read More{" "}
                   </a>
@@ -251,11 +279,13 @@ const Index = () => {
                   <div className="lui-text">
                     <div>
                       {" "}
-                      Experienced WordPress developer crafting dynamic, ecommerce websites that breathe life into businesses, 
-                      providing seamless user experiences and driving online sales growth.{" "}
+                      Experienced WordPress developer crafting dynamic,
+                      ecommerce websites that breathe life into businesses,
+                      providing seamless user experiences and driving online
+                      sales growth.{" "}
                     </div>
                   </div>
-                  <a href="#pricing-section" className="lnk">
+                  <a href="https://elit.co.ke" className="lnk">
                     {" "}
                     Read More{" "}
                   </a>
@@ -279,9 +309,9 @@ const Index = () => {
                   <div className="lui-text">
                     <div>
                       {" "}
-                      Advertising services include: Google search result pages,
-                      gmails, YouTube and other websites participated in Google
-                      Ads program.{" "}
+                      Revolutionize your business operations with ERPs,
+                      CRMs, and HRM systems, streamlining processes and
+                      fostering growth{" "}
                     </div>
                   </div>
                   <a href="#pricing-section" className="lnk">
@@ -299,17 +329,18 @@ const Index = () => {
               <SwiperSlide className="swiper-slide">
                 <div className="services-item">
                   <div className="lui-subtitle">
-                    <span> Music Writing </span>
+                    <span> SEO Optimization </span>
                   </div>
                   <div className="icon" />
                   <h5 className="lui-title">
-                    <span> Sound Track </span>
+                    <span> SEO Optimization </span>
                   </h5>
                   <div className="lui-text">
                     <div>
                       <p>
-                        Music copying, writing, creating, transcription and
-                        composition services.
+                        Catapult your online presence to new heights with my
+                        SEO optimization services, driving organic growth and
+                        boosting digital visibility
                       </p>
                     </div>
                   </div>
@@ -375,9 +406,13 @@ const Index = () => {
                     <div className="text">
                       <div>
                         <p>
-                          With a solid grasp of HTML as an intermediate web developer, I am skilled in crafting the fundamental structure and design of websites. 
-                          By utilizing HTML's markup tags, I proficiently organize and arrange online content, resulting in visually appealing and user-friendly websites. 
-                          This expertise enables me to create seamless browsing experiences.
+                          With a solid grasp of HTML as an intermediate web
+                          developer, I am skilled in crafting the fundamental
+                          structure and design of websites. By utilizing HTML's
+                          markup tags, I proficiently organize and arrange
+                          online content, resulting in visually appealing and
+                          user-friendly websites. This expertise enables me to
+                          create seamless browsing experiences.
                         </p>
                       </div>
                     </div>
@@ -402,8 +437,13 @@ const Index = () => {
                     <div className="text">
                       <div>
                         <p>
-                        By leveraging the power of CSS styling, I can seamlessly organize and arrange online content, resulting in websites that leave a lasting positive impression on visitors. 
-                        With my skills in CSS, I create engaging browsing experiences, ensuring intuitive navigation.</p>
+                          By leveraging the power of CSS styling, I can
+                          seamlessly organize and arrange online content,
+                          resulting in websites that leave a lasting positive
+                          impression on visitors. With my skills in CSS, I
+                          create engaging browsing experiences, ensuring
+                          intuitive navigation.
+                        </p>
                       </div>
                     </div>
                     <div className="dots">
@@ -431,8 +471,14 @@ const Index = () => {
                     <div className="text">
                       <div>
                         <p>
-                        Harnessing the power of JavaScript, I skillfully create websites with interactive and dynamic elements, enhancing user experiences through form validation, real-time updates, and engaging content.
-                        By leveraging this versatile programming language, I transform websites into immersive, responsive, and user-friendly digital experiences, ensuring a seamless journey for visitors.
+                          Harnessing the power of JavaScript, I skillfully
+                          create websites with interactive and dynamic elements,
+                          enhancing user experiences through form validation,
+                          real-time updates, and engaging content. By leveraging
+                          this versatile programming language, I transform
+                          websites into immersive, responsive, and user-friendly
+                          digital experiences, ensuring a seamless journey for
+                          visitors.
                         </p>
                       </div>
                     </div>
@@ -457,7 +503,11 @@ const Index = () => {
                     <div className="text">
                       <div>
                         <p>
-                        With expertise in React, I construct modern and highly responsive web applications. Leveraging React's component-based architecture and virtual DOM, I create reusable UI components that enhance performance and facilitate seamless state management
+                          With expertise in React, I construct modern and highly
+                          responsive web applications. Leveraging React's
+                          component-based architecture and virtual DOM, I create
+                          reusable UI components that enhance performance and
+                          facilitate seamless state management
                         </p>
                       </div>
                     </div>
@@ -486,8 +536,14 @@ const Index = () => {
                     <div className="text">
                       <div>
                         <p>
-                        Proficient in WordPress, I develop websites with a user-friendly interface and robust functionality. Utilizing WordPress's extensive plugin ecosystem and customizable themes, I create tailored solutions that meet specific business needs.
-                        Building intuitive content management systems to integrating e-commerce capabilities delivering versatile and scalable websites.
+                          Proficient in WordPress, I develop websites with a
+                          user-friendly interface and robust functionality.
+                          Utilizing WordPress's extensive plugin ecosystem and
+                          customizable themes, I create tailored solutions that
+                          meet specific business needs. Building intuitive
+                          content management systems to integrating e-commerce
+                          capabilities delivering versatile and scalable
+                          websites.
                         </p>
                       </div>
                     </div>
@@ -512,8 +568,12 @@ const Index = () => {
                     <div className="text">
                       <div>
                         <p>
-                        As a skilled Figma user, I transform design concepts into captivating visual experiences. With Figma's collaborative design tools, I create pixel-perfect layouts, intuitive user interfaces, and interactive prototypes.
-                        I ensure efficient design handoffs and deliver exceptional designs.
+                          As a skilled Figma user, I transform design concepts
+                          into captivating visual experiences. With Figma's
+                          collaborative design tools, I create pixel-perfect
+                          layouts, intuitive user interfaces, and interactive
+                          prototypes. I ensure efficient design handoffs and
+                          deliver exceptional designs.
                         </p>
                       </div>
                     </div>
@@ -873,9 +933,9 @@ const Index = () => {
         </div>
       </section>
       {/* Section - Pricing */}
-      
+
       {/* Section - Blog */}
-      
+
       {/* Section - Contacts */}
       <section className="lui-section lui-gradient-bottom" id="contact-section">
         {/* Heading */}
