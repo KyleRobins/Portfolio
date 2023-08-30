@@ -60,7 +60,7 @@ const PortfolioIsotope = ({ noViewMore }) => {
             onClick={handleFilterKeyChange("sorting-photo")}
             data-href=".sorting-photo"
           >
-            Photography
+            Wordpress Development
           </a>
           <a
             className={`c-pointer lui-subtitle ${activeBtn(
@@ -69,7 +69,7 @@ const PortfolioIsotope = ({ noViewMore }) => {
             onClick={handleFilterKeyChange("sorting-development")}
             data-href=".sorting-development"
           >
-            Development
+            Devops Engineering
           </a>
           <a
             className={`c-pointer lui-subtitle ${activeBtn(
@@ -78,7 +78,7 @@ const PortfolioIsotope = ({ noViewMore }) => {
             onClick={handleFilterKeyChange("sorting-branding")}
             data-href=".sorting-branding"
           >
-            Branding
+            Graphics Desing & Branding
           </a>
         </div>
         <div className="works-items works-masonry-items row">
@@ -102,7 +102,7 @@ const PortfolioIsotope = ({ noViewMore }) => {
                 </div>
               </div>
               <div className="desc">
-                <span className="category"> Branding, Photography </span>
+                <span className="category"> Motion Graphics & Video Editing. </span>
                 <h5 className="name">
                   <Link legacyBehavior href="/work-single">
                     <a>Zorro</a>
