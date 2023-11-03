@@ -102,7 +102,7 @@ const PortfolioIsotopeList = ({ noViewMore }) => {
                 </div>
               </div>
               <div className="desc">
-                <span className="category"> Branding, Photography </span>
+                <span className="category"> Web Development, IT Consultancy </span>
                 <h5 className="name">
                   <Link legacyBehavior href="/work-single">
                     <a>Zorro</a>
@@ -110,8 +110,8 @@ const PortfolioIsotopeList = ({ noViewMore }) => {
                 </h5>
                 <div className="text">
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod tempor incididunt ut labore et dolore.
+                  Elitcorp Consultancy specializes in providing exceptional Web development, 
+                  UI/UX design, Cloud Computing, Graphics Design and Mobile app development services.
                   </p>
                 </div>
                 <Link legacyBehavior href="/work-single">
