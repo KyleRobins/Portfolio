@@ -103,7 +103,7 @@ const Header = () => {
                                 </a>
                               </Link>
                             </li>
-                            <li className="menu-item">
+                            {/* <li className="menu-item">
                               <a
                                 className="splitting-text-anim-2"
                                 data-splitting="chars"
@@ -112,7 +112,7 @@ const Header = () => {
                               >
                                 Services
                               </a>
-                            </li>
+                            </li> */}
                             <li className="menu-item">
                               <a
                                 className="splitting-text-anim-2"
@@ -153,7 +153,7 @@ const Header = () => {
                                 Testimonials
                               </a>
                             </li>
-                            <li className="menu-item">
+                            {/* <li className="menu-item">
                               <a
                                 className="splitting-text-anim-2"
                                 data-splitting="chars"
@@ -162,8 +162,8 @@ const Header = () => {
                               >
                                 Pricing
                               </a>
-                            </li>
-                            <li className="menu-item">
+                            </li> */}
+                            {/* <li className="menu-item">
                               <a
                                 className="splitting-text-anim-2"
                                 data-splitting="chars"
@@ -172,7 +172,7 @@ const Header = () => {
                               >
                                 Blog
                               </a>
-                            </li>
+                            </li> */}
                             <li className="menu-item">
                               <a
                                 className="splitting-text-anim-2"
@@ -183,7 +183,7 @@ const Header = () => {
                                 Contact
                               </a>
                             </li>
-                            <li
+                            {/* <li
                               className={`menu-item menu-item-has-children has-children ${
                                 pageToggle ? "opened" : "closed"
                               }`}
@@ -255,7 +255,7 @@ const Header = () => {
                                   </Link>
                                 </li>
                               </ul>
-                            </li>
+                            </li> */}
                           </ul>
                         </div>
                         {/* social */}
