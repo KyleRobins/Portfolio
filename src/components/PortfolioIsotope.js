@@ -225,7 +225,7 @@ const PortfolioIsotope = ({ noViewMore }) => {
                     <a>
                       <img
                         decoding="async"
-                        src="assets/images/work1.jpeg"
+                        src="assets/images/elitcorpweb.png"
                         alt="Mozar"
                       />
                       <span className="overlay" />
