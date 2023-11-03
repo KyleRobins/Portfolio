@@ -221,7 +221,7 @@ const PortfolioIsotope = ({ noViewMore }) => {
             >
               <div className="image">
                 <div className="img">
-                  <Link legacyBehavior href="/work-single">
+                  <Link legacyBehavior href="https://elit.co.ke">
                     <a>
                       <img
                         decoding="async"
@@ -236,7 +236,7 @@ const PortfolioIsotope = ({ noViewMore }) => {
               <div className="desc">
                 <span className="category"> Web Development, IT Consultancy </span>
                 <h5 className="name">
-                  <Link legacyBehavior href="/work-single">
+                  <Link legacyBehavior href="https://elit.co.ke">
                     <a>Elitcorp</a>
                   </Link>
                 </h5>
@@ -246,7 +246,7 @@ const PortfolioIsotope = ({ noViewMore }) => {
                   UI/UX design, Cloud Computing, Graphics Design and Mobile app development services.
                   </p>
                 </div>
-                <Link legacyBehavior href="/work-single">
+                <Link legacyBehavior href="https://elit.co.ke">
                   <a className="lnk">See project</a>
                 </Link>
               </div>
