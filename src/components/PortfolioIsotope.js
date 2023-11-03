@@ -309,11 +309,11 @@ const PortfolioIsotope = ({ noViewMore }) => {
             >
               <div className="image">
                 <div className="img">
-                  <Link legacyBehavior href="/work-single">
+                  <Link legacyBehavior href="https://pgemsfresh.com">
                     <a>
                       <img
                         decoding="async"
-                        src="assets/images/single6.jpg"
+                        src="assets/images/pgemsfresh.png"
                         alt="Kana"
                       />
                       <span className="overlay" />
@@ -322,19 +322,19 @@ const PortfolioIsotope = ({ noViewMore }) => {
                 </div>
               </div>
               <div className="desc">
-                <span className="category"> Development, Photography </span>
+                <span className="category"> Farming, Fresh Produce </span>
                 <h5 className="name">
-                  <Link legacyBehavior href="/work-single">
+                  <Link legacyBehavior href="https://pgemsfresh.com">
                     <a>Kana</a>
                   </Link>
                 </h5>
                 <div className="text">
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod tempor incididunt ut labore et dolore.
+                  P&Gems Company Ltd is a Kenyan Company registered and incorporated under the Companies Act Since 2016.
+                  a licensed fresh produce exporter. 
                   </p>
                 </div>
-                <Link legacyBehavior href="/work-single">
+                <Link legacyBehavior href="https://pgemsfresh.com">
                   <a className="lnk">See project</a>
                 </Link>
               </div>
