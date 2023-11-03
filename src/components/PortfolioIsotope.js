@@ -325,7 +325,7 @@ const PortfolioIsotope = ({ noViewMore }) => {
                 <span className="category"> Farming, Fresh Produce </span>
                 <h5 className="name">
                   <Link legacyBehavior href="https://pgemsfresh.com">
-                    <a>Kana</a>
+                    <a>P&Gems</a>
                   </Link>
                 </h5>
                 <div className="text">
