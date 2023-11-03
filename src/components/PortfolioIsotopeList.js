@@ -236,7 +236,7 @@ const PortfolioIsotopeList = ({ noViewMore }) => {
               <div className="desc">
                 <span className="category"> Web Development, IT Consultancy </span>
                 <h5 className="name">
-                  <Link legacyBehavior href="/work-single">
+                  <Link legacyBehavior href="https://elit.co.ke">
                     <a>Elitcorp</a>
                   </Link>
                 </h5>
