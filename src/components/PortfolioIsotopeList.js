@@ -221,11 +221,11 @@ const PortfolioIsotopeList = ({ noViewMore }) => {
             >
               <div className="image">
                 <div className="img">
-                  <Link legacyBehavior href="/work-single">
+                  <Link legacyBehavior href="https://elit.co.ke">
                     <a>
                       <img
                         decoding="async"
-                        src="assets/images/work1.jpeg"
+                        src="assets/images/etlitcorpweb.png"
                         alt="Mozar"
                       />
                       <span className="overlay" />
@@ -246,7 +246,7 @@ const PortfolioIsotopeList = ({ noViewMore }) => {
                   UI/UX design, Cloud Computing, Graphics Design and Mobile app development services.
                   </p>
                 </div>
-                <Link legacyBehavior href="/work-single">
+                <Link legacyBehavior href="https://elit.co.ke">
                   <a className="lnk">See project</a>
                 </Link>
               </div>
