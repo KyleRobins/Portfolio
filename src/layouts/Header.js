@@ -163,16 +163,16 @@ const Header = () => {
                                 Pricing
                               </a>
                             </li> */}
-                            {/* <li className="menu-item">
+                            <li className="menu-item">
                               <a
                                 className="splitting-text-anim-2"
                                 data-splitting="chars"
-                                href="/#blog-section"
+                                href="https://blog.kylerobins.com"
                                 onClick={() => linkClick()}
                               >
                                 Blog
                               </a>
-                            </li> */}
+                            </li> 
                             <li className="menu-item">
                               <a
                                 className="splitting-text-anim-2"

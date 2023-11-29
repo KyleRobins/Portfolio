@@ -3,6 +3,7 @@ import Link from "next/link";
 import { Swiper, SwiperSlide } from "swiper/react";
 import Resume from "../src/components/Resume";
 import Layout from "../src/layouts/Layout";
+
 import {
   servicesSliderProps,
   testimonialsSliderProps,
@@ -642,7 +643,7 @@ const Index = () => {
       {/* Section - Pricing */}
 
       {/* Section - Blog */}
-
+     
       {/* Section - Contacts */}
       <section className="lui-section lui-gradient-bottom" id="contact-section">
         {/* Heading */}
